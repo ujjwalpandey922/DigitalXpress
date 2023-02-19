@@ -1,0 +1,79 @@
+.industries {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 5rem 0;
+}
+.industries-logo {
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+}
+.row1 {
+  display: flex;
+  margin: 0 0 5rem 0;
+}
+.row1 img:first-child {
+  width: 311px;
+  height: 240px;
+}
+#industries1mobile {
+  width: 130px;
+  height: 230px;
+  position: relative;
+  top: 5rem;
+  right: 5rem;
+}
+#industries2 {
+  width: 270px;
+  height: 270px;
+  margin-left: -4rem;
+}
+#industries3 {
+  width: 100px;
+  height: 220px;
+  margin: 0 1rem;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+#industries4 {
+  width: 290px;
+  height: 290px;
+}
+#industries5 {
+  width: 300px;
+  height: 300px;
+}
+.row2 {
+  display: flex;
+  margin: 5rem 0;
+}
+#row21 {
+  width: 200px;
+  height: 200px;
+}
+#row2dog {
+  margin: auto 1rem;
+  width: 200px;
+  height: 170px;
+}
+#row2girl {
+  width: 300px;
+  height: 200px;
+}
+#row2phone {
+  position: relative;
+  top: 5rem;
+
+  width: 100px;
+  height: 200px;
+}
+#row2phoneweb {
+  width: 421px;
+  height: 209px;
+  margin-left: -5rem;
+}
+#row2last {
+  width: 139px;
+  height: 205px;
+}

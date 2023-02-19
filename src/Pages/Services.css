@@ -1,0 +1,23 @@
+.Services {
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+}
+.Services .title h1 {
+  font-family: "Gotham";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 80px;
+}
+.service_card {
+  display: flex;
+  gap: 1rem;
+  margin: 2rem 0;
+  height: 220vh;
+}
+.service_card .Sec {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}

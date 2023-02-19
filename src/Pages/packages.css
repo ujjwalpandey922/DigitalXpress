@@ -1,0 +1,130 @@
+.button-port .white {
+  width: max-content;
+  padding: 0 1rem;
+  color: black;
+  background: #ffffff;
+  box-shadow: 0px 4px 10px 3px rgba(0, 0, 0, 0.08);
+  border-radius: 30px;
+}
+.button-port .width {
+  width: max-content;
+}
+.long-card-content {
+  background: #ffffff;
+  box-shadow: 0px 3px 40px rgba(0, 0, 0, 0.08);
+  border-radius: 15px;
+  padding: 1rem;
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.gay-line {
+  width: 350px;
+  height: 12px;
+
+  /* primary */
+  border-radius: 10px;
+  background: linear-gradient(94.1deg, #ff607e 2.09%, #01b5e0 100.97%);
+}
+.long-cards {
+  display: flex;
+  gap: 2rem;
+  justify-content: space-evenly;
+}
+.long-card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.group18 {
+  width: 60px;
+  margin: 1rem 0;
+}
+.long-card-content h1 {
+  font-family: "Gotham";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 38px;
+
+  /* Black */
+
+  color: #1c1c1c;
+}
+.long-card-content h2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+
+  /* Black */
+
+  color: #1c1c1c;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 1rem 0;
+}
+.long-card-content h3 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  /* OG Black */
+
+  color: #2f2f2f;
+  margin: 1rem 0;
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.list span {
+  display: flex;
+  gap: 1rem;
+}
+.widthf {
+  margin: 2rem 0;
+  width: 100%;
+}
+.long-cards {
+  display: flex;
+}
+.design {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 37px;
+  gap: 10px;
+
+  width: 184px;
+  height: 60px;
+
+  /* primary */
+
+  background: linear-gradient(94.1deg, #ff607e 2.09%, #01b5e0 100.97%);
+  box-shadow: 0px 4px 10px 3px rgba(0, 0, 0, 0.08);
+  border-radius: 30px;
+  color: aliceblue;
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}

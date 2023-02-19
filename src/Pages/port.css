@@ -1,0 +1,61 @@
+.portfolio {
+  width: 100%;
+}
+.portfolio h1 {
+  font-family: "Gotham";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 90px; /* identical to box height, or 125% */
+  text-align: center; /* Black */
+  color: #1c1c1c;
+  text-align: center;
+  margin: 2rem;
+}
+.button-port {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+  margin: 3rem 0;
+}
+.button-port .contact_btn {
+  width: 120px;
+}
+.button-port .contact_btn2 {
+  width: 633px;
+  height: 50px;
+
+  /* Tint Blue */
+
+  background: #d1d9f5;
+  border-radius: 35px;
+
+  font-family: "Gotham";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 23px;
+  /* identical to box height */
+
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  /* Rich Blue */
+
+  color: #0466c8;
+}
+.contact_btn2 img {
+  margin-left: 5rem;
+}
+.frame {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.frame-img {
+  width: 350px;
+}
